@@ -1,0 +1,16 @@
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.exe
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.deps.json
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.runtimeconfig.json
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.runtimeconfig.dev.json
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.dll
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\ref\CrackingCodeExercises.dll
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\bin\Debug\net5.0\CrackingCodeExercises.pdb
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.csproj.AssemblyReference.cache
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.AssemblyInfoInputs.cache
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.AssemblyInfo.cs
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.csproj.CoreCompileInputs.cache
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.dll
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\ref\CrackingCodeExercises.dll
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.pdb
+C:\Projects\CrackingCodeExercises\CrackingCodeExercises\obj\Debug\net5.0\CrackingCodeExercises.genruntimeconfig.cache
