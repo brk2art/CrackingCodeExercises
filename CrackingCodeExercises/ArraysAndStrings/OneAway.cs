@@ -117,9 +117,8 @@ namespace CrackingCodeExercises.ArraysAndStrings
 
                     index2++; // Always move pointer for longer string
                 }
-
-                return true;
             }
+            return true;
         }
     }
 }

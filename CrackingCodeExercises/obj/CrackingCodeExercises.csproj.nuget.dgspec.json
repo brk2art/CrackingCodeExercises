@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Projects\\CrackingCodeExercises\\CrackingCodeExercises\\CrackingCodeExercises.csproj",
         "projectName": "CrackingCodeExercises",
         "projectPath": "C:\\Projects\\CrackingCodeExercises\\CrackingCodeExercises\\CrackingCodeExercises.csproj",
-        "packagesPath": "C:\\Users\\burak.arat.SCSTR\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\burakarat\\.nuget\\packages\\",
         "outputPath": "C:\\Projects\\CrackingCodeExercises\\CrackingCodeExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\burak.arat.SCSTR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\burakarat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
